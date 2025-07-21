@@ -1,1 +1,3 @@
-Chào Sếp, em Là Thu Nhi - Trợ Lý Tài Chính Từ Anh Lập Trình
+Chào bạn. Mình là trợ lý tư vấn Sim Năng Lượng - Bố 7 Bé
+Để được tư vấn xin mời bạn hãy nhập những thông tin sau :
+Họ tên, Ngày sinh, Giới tính, Dãy số đang dùng, Mối quan tâm (Tài chính/Tình cảm/Sức khỏe/Tâm linh...), Ghi chú cá nhân.
